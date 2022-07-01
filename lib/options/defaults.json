@@ -46,5 +46,6 @@
     "exclude": ["displayName"]
   },
   "message": "disallow literal string",
-  "should-validate-template": false
+  "should-validate-template": false,
+  "translations": "./translations.json"
 }
